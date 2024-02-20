@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-repo
+  title: Test
+  description: |
+    This is a test repo for Backstage-showcase
+spec:
+  type: website
+  lifecycle: unknown
+  owner: janus-authors
